@@ -1,0 +1,4 @@
+12345678;       ferrari;           488;  rouge; 2; 6000;oui;
+12345679;       porsche;    918 spyder;   gris; 2;10000;oui;
+12345677;   lamborghini;       huracan; orange; 2; 5000;non;
+12345676;   rolls royce;          dawn;  blanc; 4; 9000;oui;

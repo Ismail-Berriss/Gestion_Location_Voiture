@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1650581013 source:d:\smi\s4\programmation 2\mini_projet\basic_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"basic_Functions.h"
+
+1650581034 d:\smi\s4\programmation 2\mini_projet\basic_functions.h
+
+1650580691 source:d:\smi\s4\programmation 2\mini_projet\gestion_clients.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_Clients.h"
+	"basic_Functions.h"
+
+1650580723 d:\smi\s4\programmation 2\mini_projet\gestion_clients.h
+
+1650965400 source:d:\smi\s4\programmation 2\mini_projet\gestion_voitures.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion_Voitures.h"
+	"basic_Functions.h"
+
+1650580544 d:\smi\s4\programmation 2\mini_projet\gestion_voitures.h
+
+1650580863 source:d:\smi\s4\programmation 2\mini_projet\location_voiture.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"location_Voiture.h"
+	"gestion_Voitures.h"
+	"gestion_Clients.h"
+	"basic_Functions.h"
+
+1650580911 d:\smi\s4\programmation 2\mini_projet\location_voiture.h
+
+1650965361 source:d:\smi\s4\programmation 2\mini_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"gestion_Voitures.h"
+	"location_Voiture.h"
+	"gestion_Clients.h"
+	"basic_Functions.h"
+
+1650581013 source:d:\smi\s4\programmation 2\mini-projet\basic_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"basic_Functions.h"
+
+1650581034 d:\smi\s4\programmation 2\mini-projet\basic_functions.h
+
+1650972724 source:d:\smi\s4\programmation 2\mini-projet\gestion_clients.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_Clients.h"
+	"basic_Functions.h"
+
+1650580723 d:\smi\s4\programmation 2\mini-projet\gestion_clients.h
+
+1650965400 source:d:\smi\s4\programmation 2\mini-projet\gestion_voitures.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion_Voitures.h"
+	"basic_Functions.h"
+
+1650580544 d:\smi\s4\programmation 2\mini-projet\gestion_voitures.h
+
+1650580863 source:d:\smi\s4\programmation 2\mini-projet\location_voiture.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"location_Voiture.h"
+	"gestion_Voitures.h"
+	"gestion_Clients.h"
+	"basic_Functions.h"
+
+1650580911 d:\smi\s4\programmation 2\mini-projet\location_voiture.h
+
+1650965918 source:d:\smi\s4\programmation 2\mini-projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"gestion_Voitures.h"
+	"location_Voiture.h"
+	"gestion_Clients.h"
+	"basic_Functions.h"
+
